@@ -1,0 +1,272 @@
+{
+  "grocieries": [
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted-600x600.jpg",
+      "category": "Grocieries",
+      "name": "Assorted Coffee",
+      "price": "£35.00",
+      "id": "43c8",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/cashew-butter-500.jpg",
+      "category": "Grocieries",
+      "name": "Cashew Butter",
+      "price": "£25.00",
+      "id": "c06e",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/diabetic-cookies.jpg",
+      "category": "Grocieries",
+      "name": "Diabetic Cookies",
+      "price": "£25.00",
+      "id": "1119",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer-600x600.jpg",
+      "category": "Grocieries",
+      "name": "Hand Sanitizer",
+      "price": "£15.00",
+      "id": "ef4e",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/eggs.jpg",
+      "category": "Grocieries",
+      "name": "Farm Fresh Eggs",
+      "price": "£34.00",
+      "id": "2b77",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/orage-juice-kariz.jpg",
+      "category": "Grocieries",
+      "name": "Fresh Orange Juice",
+      "price": "£18.00",
+      "id": "dd1f",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/organic-honey.jpg",
+      "category": "Grocieries",
+      "name": "Fresh Organic Honey",
+      "price": "£34.00",
+      "id": "e069",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/red-chillies.jpg",
+      "category": "Grocieries",
+      "name": "Handpicked Red Chillies",
+      "price": "£19.00",
+      "id": "28e1",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/edible-oil-600x600.jpg",
+      "category": "Grocieries",
+      "name": "Natural Extracted Edible Oil",
+      "price": "£25.00",
+      "id": "148c",
+      "quantity": 1
+    }
+  ],
+  "everything": [
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/diabetic-cookies.jpg",
+      "category": "Grocieries",
+      "name": "Diabetic Cookies",
+      "price": "£25.00",
+      "id": "1119",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted-600x600.jpg",
+      "category": "Grocieries",
+      "name": "Assorted Coffee",
+      "price": "£35.00",
+      "id": "43c8",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer-600x600.jpg",
+      "category": "Grocieries",
+      "name": "Hand Sanitizer",
+      "price": "£15.00",
+      "id": "ef4e",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/eggs.jpg",
+      "category": "Grocieries",
+      "name": "Farm Fresh Eggs",
+      "price": "£34.00",
+      "id": "2b77",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/orage-juice-kariz.jpg",
+      "category": "Grocieries",
+      "name": "Fresh Orange Juice",
+      "price": "£18.00",
+      "id": "dd1f",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer-600x600.jpg",
+      "category": "Grocieries",
+      "name": "Hand Sanitizer",
+      "price": "£15.00",
+      "id": "ef4e",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/cashew-butter-500.jpg",
+      "category": "Grocieries",
+      "name": "Cashew Butter",
+      "price": "£25.00",
+      "id": "c06e",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/orage-juice-kariz.jpg",
+      "category": "Grocieries",
+      "name": "Fresh Orange Juice",
+      "price": "£18.00",
+      "id": "dd1f",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/eggs.jpg",
+      "category": "Grocieries",
+      "name": "Farm Fresh Eggs",
+      "price": "£34.00",
+      "id": "2b77",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/organic-honey.jpg",
+      "category": "Grocieries",
+      "name": "Fresh Organic Honey",
+      "price": "£34.00",
+      "id": "e069",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/pulses.jpg",
+      "category": "Juices",
+      "name": "Pulses From Organic Farm",
+      "price": "£15.00",
+      "id": "3f96",
+      "quantity": 1
+    }
+  ],
+  "juices": [
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted-600x600.jpg",
+      "category": "Juices",
+      "name": "Assorted Coffee",
+      "price": "£35.00",
+      "id": "b690",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/cashew-butter-500.jpg",
+      "category": "Juices",
+      "name": "Cashew Butter",
+      "price": "£25.00",
+      "id": "44ea",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/diabetic-cookies.jpg",
+      "category": "Juices",
+      "name": "Diabetic Cookies",
+      "price": "£25.00",
+      "id": "5947",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer-600x600.jpg",
+      "category": "Juices",
+      "name": "Hand Sanitizer",
+      "price": "£15.00",
+      "id": "a978",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/eggs.jpg",
+      "category": "Juices",
+      "name": "Farm Fresh Eggs",
+      "price": "£34.00",
+      "id": "dc16",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/orage-juice-kariz.jpg",
+      "category": "Juices",
+      "name": "Fresh Orange Juice",
+      "price": "£18.00",
+      "id": "c285",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/organic-honey.jpg",
+      "category": "Juices",
+      "name": "Fresh Organic Honey",
+      "price": "£34.00",
+      "id": "0668",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/pulses.jpg",
+      "category": "Juices",
+      "name": "Pulses From Organic Farm",
+      "price": "£15.00",
+      "id": "3f96",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/wheat-600x600.jpg",
+      "category": "Juices",
+      "name": "Wheat From Organic Farms",
+      "price": "£34.00",
+      "id": "701d",
+      "quantity": 1
+    },
+    {
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/edible-oil-600x600.jpg",
+      "category": "Juices",
+      "name": "Natural Extracted Edible Oil",
+      "price": "£25.00",
+      "id": "eae9",
+      "quantity": 1
+    }
+  ],
+  "basket": [
+    {
+      "id": "e069",
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/organic-honey.jpg",
+      "category": "basket",
+      "name": "Fresh Organic Honey",
+      "price": "£34.00",
+      "quantity": 9
+    },
+    {
+      "id": "1119",
+      "img_URL": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/diabetic-cookies.jpg",
+      "category": "basket",
+      "name": "Diabetic Cookies",
+      "price": "£25.00",
+      "quantity": 10
+    }
+  ],
+  "subTotalBasketValue": {
+    "subTotalBasketValue": 546
+  },
+  "count": {
+    "count": 19
+  }
+}
